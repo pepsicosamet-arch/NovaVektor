@@ -1,0 +1,41 @@
+{
+  "id": "vectorcraft",
+  "name": "NOVA Vektor",
+  "upgradeCode": "38055FD5-BA84-555C-B27C-2A4ADA588127",
+  "sources": [
+    "vectorcraft.wxs"
+  ],
+  "icon": "assets/app-icon/vectorcraft.ico",
+  "localization": [
+    "vectorcraft.en-us.wxl"
+  ],
+  "extensions": [
+    "UI",
+    "Util"
+  ],
+  "payloads": [
+    "vectorcraft-cli.exe",
+    "vectorcraft.exe"
+  ],
+  "registry": [
+    [
+      "-1",
+      "Software\\Microsoft\\Windows\\CurrentVersion\\App Paths\\vectorcraft.exe",
+      "",
+      "[#VectorcraftExe]"
+    ],
+    [
+      "-1",
+      "Software\\NOVA Vektor",
+      "InstallDir",
+      "[INSTALLFOLDER]"
+    ],
+    [
+      "-1",
+      "Software\\NOVA Vektor",
+      "DesktopShortcut",
+      "#1"
+    ]
+  ],
+  "mode": "dualScope"
+}

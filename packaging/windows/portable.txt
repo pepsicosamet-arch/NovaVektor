@@ -1,0 +1,15 @@
+NOVA Vektor portable mode
+
+While this file sits next to vectorcraft.exe, NOVA Vektor keeps its preferences, swatch and
+graphic style libraries, added fonts, crash-recovery files and logs in the NovaVektorData folder
+beside it, and writes nothing to %APPDATA%. Copy the whole folder to move NOVA Vektor with its
+settings. The first time NovaVektorData is created, any settings already in
+%APPDATA%\NOVA Vektor are copied into it; the originals are left where they were.
+
+Keep this folder somewhere only you can write to: whoever can write here decides your settings,
+including the plug-ins and fonts folders NOVA Vektor loads from, and the Data Recovery copies of
+your unsaved documents are kept here too.
+
+Delete this file to use the normal per-user settings folder (%APPDATA%\NOVA Vektor) instead.
+If NovaVektorData can't be written (for example on a read-only drive), NOVA Vektor logs a
+warning and uses %APPDATA%\NOVA Vektor instead.
