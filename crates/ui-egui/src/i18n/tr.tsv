@@ -189,7 +189,7 @@ font-technology	Variable	Değişken
 	Appearance Panel	Görünüm Paneli
 	Appearance panel	Görünüm paneli
 	Applies when the linked file is relinked or updated.	Bağlantılı dosya yeniden bağlandığında veya güncellendiğinde geçerlidir.
-	Applies the next time NOVA Vektör starts.	NOVA Vektör'ın bir sonraki başlatılışında uygulanır.
+	Applies the next time NOVA Vektör starts.	NOVA Vektör'ün bir sonraki başlatılışında uygulanır.
 	Apply	Uygula
 	Apply Brush	Fırça Uygula
 	Apply Character Style	Karakter Stilini Uygula
@@ -1522,7 +1522,7 @@ font-technology	Variable	Değişken
 	not known yet	henüz bilinmiyor
 	Shortcuts	Kısayollar
 	In the File	Dosyada
-	In NOVA Vektör	NOVA Vektör'ta
+	In NOVA Vektör	NOVA Vektör'de
 	Needs Attention Only	Yalnızca Dikkat Gerekir
 	Ready	Hazır
 	Needs a choice	Bir seçime ihtiyacı var
@@ -2355,7 +2355,7 @@ digits	Malayalam	Malayalam
 	Quarter Space	Çeyrek Alan
 	Quick Actions	Hızlı Eylemler
 	Quickly start a new file	Hızlı bir şekilde yeni bir dosya başlatın
-	Quit NOVA Vektör	NOVA Vektör'tan çıkın
+	Quit NOVA Vektör	NOVA Vektör'den çıkın
 	Radar Graph Tool	Radar Grafik Aracı
 	Radial	Radyal
 	Radial Glows	Radyal Parıltılar
@@ -2588,7 +2588,7 @@ digits	Malayalam	Malayalam
 	Revert	Geri Döndür
 	Revert to the saved version of “{name}”?	“{name}”nin kayıtlı sürümüne dönülsün mü?
 	Replace “{name}”, the file this document was opened from?	Bu belgenin açıldığı dosya olan "{name}" değiştirilsin mi?
-	Opening it left out what NOVA Vektör can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Bunu açmak, NOVA Vektör'ın henüz okuyamadığı şeyi ({what}) dışarıda bıraktı, bu nedenle onu değiştirmek onu tamamen kaybeder. Saklamak için başka bir adla kaydedin.
+	Opening it left out what NOVA Vektör can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Bunu açmak, NOVA Vektör'ün henüz okuyamadığı şeyi ({what}) dışarıda bıraktı, bu nedenle onu değiştirmek onu tamamen kaybeder. Saklamak için başka bir adla kaydedin.
 	Revolve…	Döndür…
 	RGB Color	RGB Rengi
 	Right	Sağ
@@ -3536,7 +3536,7 @@ digits	Malayalam	Malayalam
 	Web Snap:	Web Snap:
 	Weight	Ağırlık
 	Weight:	Ağırlık:
-	Welcome to NOVA Vektör	NOVA Vektör'a hoş geldiniz
+	Welcome to NOVA Vektör	NOVA Vektör'e hoş geldiniz
 	When pasting text	Metin yapıştırırken
 	White	Beyaz
 	Widget Position:	Widget Konumu:
@@ -3828,7 +3828,7 @@ axis	Both	Her İkisi
 @msg	Split Into Grid: select paths large enough for the grid	Izgaraya Böl: ızgara için yeterince büyük yollar seçin
 @msg	Targa files are RGB: colorModel rgb	Targa dosyaları RGB'dir: colorModel rgb
 @msg	Text Wrap: select a wrap object	Metin Sarma: bir sarma nesnesi seçin
-@msg	This shortcut file is in a form NOVA Vektör can't read.	Bu kısayol dosyası NOVA Vektör'ın okuyamayacağı bir biçimdedir.
+@msg	This shortcut file is in a form NOVA Vektör can't read.	Bu kısayol dosyası NOVA Vektör'ün okuyamayacağı bir biçimdedir.
 @msg	`aspect` must be a number (%)	"boyut" bir sayı olmalıdır (%)
 @msg	`at` must be [x, y]	`at` [x, y] olmalıdır
 @msg	`color` must be a colour	"renk" bir renk olmalıdır
@@ -3960,7 +3960,7 @@ axis	Both	Her İkisi
 @msg	empty brush stroke	boş fırça darbesi
 @msg	empty cutter	boş kesici
 @msg	empty path	boş yol
-@msg	file version {0} is newer than this NOVA Vektör supports ({VERSION})	dosya sürümü {0}, NOVA Vektör'ın desteklediğinden daha yenidir ({VERSION})
+@msg	file version {0} is newer than this NOVA Vektör supports ({VERSION})	dosya sürümü {0}, NOVA Vektör'ün desteklediğinden daha yenidir ({VERSION})
 @msg	freeform point {i} needs `at` [x, y] and a valid `color`	serbest biçimli nokta {i}'nin "[x, y]'de" ve geçerli bir "renk"te olması gerekir
 @msg	freeform line {i} must be an array of point indices	Serbest biçimli çizgi {i}, bir nokta indeks dizisi olmalıdır
 @msg	give both `start` and `end` [x, y] (or neither)	hem "başlangıç" hem de "son" [x, y] verin (ya da ikisini de)
@@ -3979,9 +3979,9 @@ axis	Both	Her İkisi
 @msg	invalid PDF setting: {0}	geçersiz PDF ayarı: {0}
 @msg	invalid image data for `{0}`	`{0}` için geçersiz resim verileri
 @msg	invalid parameters for `{cmd}`: {msg}	`{cmd}` için geçersiz parametreler: {msg}
-@msg	is not an image NOVA Vektör reads	NOVA Vektör'ın okuduğu bir resim değil
-@msg	it uses `{at}`, which NOVA Vektör's PostScript reader doesn't know	NOVA Vektör'ın PostScript okuyucusunun bilmediği `{at}`yi kullanıyor
-@msg	it uses `{at}`, which NOVA Vektör's PostScript reader doesn't know, in {procs}	{procs}'de NOVA Vektör'ın PostScript okuyucusunun bilmediği `{at}`yi kullanıyor
+@msg	is not an image NOVA Vektör reads	NOVA Vektör'ün okuduğu bir resim değil
+@msg	it uses `{at}`, which NOVA Vektör's PostScript reader doesn't know	NOVA Vektör'ün PostScript okuyucusunun bilmediği `{at}`yi kullanıyor
+@msg	it uses `{at}`, which NOVA Vektör's PostScript reader doesn't know, in {procs}	{procs}'de NOVA Vektör'ün PostScript okuyucusunun bilmediği `{at}`yi kullanıyor
 @msg	its Windows metafile preview was opened instead, which may simplify the art	bunun yerine Windows meta dosyası önizlemesi açıldı, bu da işi basitleştirebilir
 @msg	its preview was placed instead, at screen resolution	bunun yerine önizlemesi ekran çözünürlüğüne yerleştirildi
 @msg	join needs open paths	katılmak için açık yollara ihtiyaç var
@@ -4076,7 +4076,7 @@ axis	Both	Her İkisi
 @msg	not an action set file	bir eylem seti dosyası değil
 @msg	the action set file is larger than 8 MiB	eylem seti dosyası 8 MiB'den büyük
 @msg	the action set file holds more than 1,000 actions	eylem seti dosyası 1.000'den fazla eylem içeriyor
-@msg	the action set file needs a later version of NOVA Vektör	eylem seti dosyası NOVA Vektör'ın daha yeni bir sürümünü gerektiriyor
+@msg	the action set file needs a later version of NOVA Vektör	eylem seti dosyası NOVA Vektör'ün daha yeni bir sürümünü gerektiriyor
 @msg	an action in the action set file has more than 10,000 steps	eylem seti dosyasındaki bir eylemde 10.000'den fazla adım var
 @msg	no such anchor	öyle bir çapa yok
 @msg	no such artboard	böyle bir çalışma yüzeyi yok
@@ -4366,8 +4366,8 @@ axis	Both	Her İkisi
 @msg	{_1} files	{_1} dosyaları
 @msg	The graphics were lost and have been restarted	Grafikler kayboldu ve yeniden başlatıldı
 @msg	The graphics processor tried first couldn't show the window, so NOVA Vektör started again on {summary}	İlk önce denenen grafik işlemcisi pencereyi gösteremedi, bu yüzden NOVA Vektör {summary}'de yeniden başladı
-@msg	The last start of NOVA Vektör ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	NOVA Vektör'ın son başlangıcı, penceresi görünmeden önce {name}'de sona erdi, bu nedenle {summary}'de başladı. Bu grafik işlemciyi tekrar denemek için Tercihler › Performans › Grafik İşlemcisi seçeneğini değiştirin veya WGPU_BACKEND ayarıyla başlayın
-@msg	The last start of NOVA Vektör ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	NOVA Vektör'ın son başlangıcı grafik işlemcilerini listelerken sona erdi ve {summary}'de yalnızca OpenGL ile başladı. Diğer grafik arka uçlarını tekrar denemek için Tercihler › Performans › Grafik İşlemci seçeneğini değiştirin veya WGPU_BACKEND ayarıyla başlayın
+@msg	The last start of NOVA Vektör ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	NOVA Vektör'ün son başlangıcı, penceresi görünmeden önce {name}'de sona erdi, bu nedenle {summary}'de başladı. Bu grafik işlemciyi tekrar denemek için Tercihler › Performans › Grafik İşlemcisi seçeneğini değiştirin veya WGPU_BACKEND ayarıyla başlayın
+@msg	The last start of NOVA Vektör ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	NOVA Vektör'ün son başlangıcı grafik işlemcilerini listelerken sona erdi ve {summary}'de yalnızca OpenGL ile başladı. Diğer grafik arka uçlarını tekrar denemek için Tercihler › Performans › Grafik İşlemci seçeneğini değiştirin veya WGPU_BACKEND ayarıyla başlayın
 @msg	Loading NOVA Vektör…	NOVA Vektör Yükleniyor…
 @msg	NOVA Vektör failed to start: {e}	NOVA Vektör başlatılamadı: {e}
 @msg	A browser with WebGPU or WebGL2 is required.	WebGPU veya WebGL2'ye sahip bir tarayıcı gereklidir.
@@ -4400,13 +4400,13 @@ axis	Both	Her İkisi
 @msg	it has more than {MAX_NODES} objects	{MAX_NODES}'den daha fazla nesneye sahip
 @msg	it has no layers	katmanı yok
 @msg	it has too many values in a row	arka arkaya çok fazla değer var
-@msg	it has {_1}, which NOVA Vektör doesn't read from it yet	NOVA Vektör'ın henüz okumadığı {_1} var
+@msg	it has {_1}, which NOVA Vektör doesn't read from it yet	NOVA Vektör'ün henüz okumadığı {_1} var
 @msg	its objects are nested too deeply	nesneleri çok derin bir şekilde iç içe geçmiş
 @msg	its section ending with `%{end}` doesn't end	`%{end}` ile biten bölümü bitmiyor
-@msg	brushes NOVA Vektör can't read yet were left out of the Brushes panel ({_1})	NOVA Vektör'ın henüz okuyamadığı fırçalar Fırçalar panelinin dışında bırakıldı ({_1})
+@msg	brushes NOVA Vektör can't read yet were left out of the Brushes panel ({_1})	NOVA Vektör'ün henüz okuyamadığı fırçalar Fırçalar panelinin dışında bırakıldı ({_1})
 @msg	objects with several fills or strokes, effects or brushes came in as their drawn look ({_1}): their appearance isn't editable yet	çeşitli dolgulara veya konturlara, efektlere veya fırçalara sahip nesneler çizilmiş görünümleri olarak geldi ({_1}): görünümleri henüz düzenlenemez
 @msg	gradient “{name}” isn't defined in the file: a plain colour stands in for it	“{name}” degradesi dosyada tanımlı değil: onun yerine düz bir renk geliyor
-@msg	an image NOVA Vektör can't read was left out	NOVA Vektör'ın okuyamadığı bir resim dışarıda bırakıldı
+@msg	an image NOVA Vektör can't read was left out	NOVA Vektör'ün okuyamadığı bir resim dışarıda bırakıldı
 @msg	graphs come in as plain art, without their data or settings	grafikler, verileri ve ayarları olmadan düz çizim olarak içe aktarılır
 @msg	an image whose data is cut short was left out	verileri kısa kesilen bir resim dışarıda bırakıldı
 @msg	linked pictures show the low-resolution preview saved in the file until their files are found: relink them in the Links panel	bağlantılı resimler, dosyaları bulunana kadar dosyaya kaydedilen düşük çözünürlüklü önizlemeyi gösterir: bunları Bağlantılar panelinde yeniden bağlayın
@@ -4421,7 +4421,7 @@ axis	Both	Her İkisi
 @msg	the search couldn't start: try again in a moment	arama başlatılamadı: birazdan tekrar deneyin
 @msg	searching a folder isn't available on the web	Web'de klasör arama özelliği kullanılamıyor
 @msg	every search thread stopped on an internal error (please report this bug)	her arama dizisi dahili bir hata nedeniyle durduruldu (lütfen bu hatayı bildirin)
-@msg	NOVA Vektör's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	NOVA Vektör'ın Fonts klasörü burada ayarlanmamış: masaüstü uygulaması ve Vectorcraft-cli bunu ayarlıyor
+@msg	NOVA Vektör's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	NOVA Vektör'ün Fonts klasörü burada ayarlanmamış: masaüstü uygulaması ve Vectorcraft-cli bunu ayarlıyor
 @msg	choose the font files to add	eklenecek yazı tipi dosyalarını seçin
 @msg	not a file	dosya değil
 @msg	not a font file	yazı tipi dosyası değil
@@ -4432,7 +4432,7 @@ axis	Both	Her İkisi
 @msg	every numbered name for {name} is taken in the document's folder	{name} için numaralandırılmış her ad belgenin klasöründe alınır
 @msg	No linked files to look for	Aranacak bağlantılı dosya yok
 	Services	Hizmetler
-	Hide NOVA Vektör	NOVA Vektör'ı gizle
+	Hide NOVA Vektör	NOVA Vektör'ü gizle
 	Zoom	Yakınlaştır
 	Bring All to Front	Herkesi Öne Çıkarın
 	Settings	Ayarlar
@@ -4682,7 +4682,7 @@ lighting	Light	Işık
 	Artistic	Sanatsal
 	Film Grain…	Film Tahıl…
 	Highlight Area	Alanı Vurgula
-@msg	the compressed file unpacks to more than NOVA Vektör reads ({_1} MB of document, {_2} MB per image)	sıkıştırılmış dosya, NOVA Vektör'ın okuduğundan daha fazlasına açılır (belgenin {_1} MB'ı, görüntü başına {_2} MB)
+@msg	the compressed file unpacks to more than NOVA Vektör reads ({_1} MB of document, {_2} MB per image)	sıkıştırılmış dosya, NOVA Vektör'ün okuduğundan daha fazlasına açılır (belgenin {_1} MB'ı, görüntü başına {_2} MB)
 @msg	the document is too large to save compressed ({0}): save it with Use Compression off	belge sıkıştırılmış olarak kaydedilemeyecek kadar büyük ({0}): Sıkıştırmayı Kullan kapalı olarak kaydedin
 @msg	the file stopped being read (please report this bug)	dosyanın okunması durduruldu (lütfen bu hatayı bildirin)
 	Concentric Dividers:	Eşmerkezli Bölücüler:
