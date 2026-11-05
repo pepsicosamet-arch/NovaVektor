@@ -13,10 +13,10 @@ fn main() -> Result<(), String> {
     }
     let mut res = winresource::WindowsResource::new();
     res.set_icon("../../assets/app-icon/vectorcraft.ico")
-        .set("ProductName", "NOVA Vektor")
-        .set("FileDescription", "NOVA Vektor vector illustration editor")
-        .set("CompanyName", "Samet Sahin")
-        .set("LegalCopyright", "Copyright (c) the NOVA Vektor authors. MIT OR Apache-2.0.")
+        .set("ProductName", "NOVA Vektör")
+        .set("FileDescription", "NOVA Vektör vector illustration editor")
+        .set("CompanyName", "Learning Machines LLC")
+        .set("LegalCopyright", "Copyright (c) the NOVA Vektör authors. MIT OR Apache-2.0.")
         .set("OriginalFilename", "vectorcraft.exe")
         .set("InternalName", "vectorcraft");
     if let Err(e) = res.compile() {
